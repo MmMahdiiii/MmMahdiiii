@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @MmMahdiiii
-- 🌱 I’m currently learning Java
 - 📫 How to reach me @mahdi_parchami on telegram 
 
 <!---
